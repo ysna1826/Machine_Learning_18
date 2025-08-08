@@ -1,0 +1,31 @@
+Player,Role,Country,Age,Experience,Matches,Runs,Wickets,Strike_Rate,Economy_Rate,Price_Crores
+Virat Kohli,Batsman,India,29,12,180,5500,15,165.50,9.20,15.75
+MS Dhoni,Wicket-keeper,India,37,15,200,4800,2,135.40,10.50,12.50
+Rohit Sharma,Batsman,India,31,13,175,5200,8,155.30,9.80,14.25
+KL Rahul,Batsman,India,28,8,120,3800,3,145.20,9.50,11.50
+Jasprit Bumrah,Bowler,India,26,7,95,450,125,115.80,6.80,13.75
+Ravindra Jadeja,All-rounder,India,32,12,160,2800,85,128.90,7.20,12.00
+AB de Villiers,Batsman,South Africa,36,14,170,4900,5,175.60,8.90,16.50
+David Warner,Batsman,Australia,34,11,155,4600,2,148.70,9.10,13.25
+Steve Smith,Batsman,Australia,32,10,140,4200,8,142.30,8.70,12.75
+Kagiso Rabada,Bowler,South Africa,27,6,85,380,110,105.40,7.10,11.00
+Rishabh Pant,Wicket-keeper,India,24,5,78,2400,1,152.80,10.20,8.75
+Shikhar Dhawan,Batsman,India,35,13,168,4800,12,128.50,9.40,10.50
+Yuzvendra Chahal,Bowler,India,30,8,105,520,95,118.30,8.20,9.25
+Mohammed Shami,Bowler,India,31,10,95,380,108,102.70,7.50,8.50
+Hardik Pandya,All-rounder,India,28,7,98,2200,55,145.80,8.80,10.75
+Jos Buttler,Wicket-keeper,England,31,8,85,2800,0,158.90,11.00,9.50
+Quinton de Kock,Wicket-keeper,South Africa,29,9,102,3200,2,142.60,10.80,8.25
+Trent Boult,Bowler,New Zealand,32,10,88,320,118,95.40,7.80,9.00
+Rashid Khan,Bowler,Afghanistan,24,6,75,580,92,125.70,6.50,8.75
+Andre Russell,All-rounder,West Indies,33,11,125,2600,78,168.40,9.20,11.25
+Sunil Narine,All-rounder,West Indies,33,12,142,1800,95,115.20,6.90,7.50
+Eoin Morgan,Batsman,England,35,12,135,3400,8,138.90,9.60,6.75
+Pat Cummins,Bowler,Australia,28,8,78,420,88,108.50,7.60,8.25
+Chris Gayle,Batsman,West Indies,42,18,185,4500,12,175.30,10.50,5.50
+Faf du Plessis,Batsman,South Africa,37,14,155,4100,6,132.80,9.00,7.25
+Glenn Maxwell,All-rounder,Australia,32,10,118,2900,65,152.40,8.50,9.75
+Marcus Stoinis,All-rounder,Australia,31,8,95,2100,48,148.20,9.10,6.50
+Jonny Bairstow,Wicket-keeper,England,32,9,88,2600,0,145.70,11.20,7.00
+Sam Curran,All-rounder,England,24,4,65,1200,42,138.90,8.70,7.75
+Moeen Ali,All-rounder,England,34,10,105,2400,58,142.30,7.90,6.25
