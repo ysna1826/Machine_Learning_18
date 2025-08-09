@@ -1,0 +1,110 @@
+batting_team,bowling_team,venue,overs_completed,runs_scored,wickets_lost,final_score
+Mumbai Indians,Chennai Super Kings,Wankhede Stadium,15.2,128,4,167
+Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,12.4,95,3,142
+Delhi Capitals,Punjab Kings,Arun Jaitley Stadium,18.1,145,6,158
+Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Stadium,10.3,78,2,134
+Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,14.5,112,5,138
+Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,11.2,89,3,128
+Gujarat Titans,Lucknow Super Giants,Narendra Modi Stadium,16.4,134,4,162
+Punjab Kings,Delhi Capitals,DY Patil Stadium,13.1,98,4,125
+Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,17.3,142,5,168
+Lucknow Super Giants,Gujarat Titans,Ekana Cricket Stadium,9.5,72,1,118
+Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,14.2,106,3,145
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,12.1,94,4,132
+Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,15.4,121,6,148
+Punjab Kings,Rajasthan Royals,DY Patil Stadium,11.3,85,2,126
+Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,16.1,129,5,156
+Lucknow Super Giants,Chennai Super Kings,Ekana Cricket Stadium,13.5,102,3,138
+Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,10.2,79,4,115
+Kolkata Knight Riders,Punjab Kings,Eden Gardens,17.2,138,4,165
+Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi International Stadium,14.3,108,5,142
+Rajasthan Royals,Lucknow Super Giants,Sawai Mansingh Stadium,12.4,96,3,135
+Mumbai Indians,Delhi Capitals,Wankhede Stadium,15.1,118,4,152
+Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,11.5,88,2,129
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,16.3,125,6,153
+Punjab Kings,Gujarat Titans,DY Patil Stadium,13.2,99,4,128
+Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,14.4,114,5,146
+Lucknow Super Giants,Royal Challengers Bangalore,Ekana Cricket Stadium,10.1,76,3,112
+Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,17.1,135,4,161
+Gujarat Titans,Kolkata Knight Riders,Narendra Modi Stadium,12.3,91,3,124
+Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Stadium,15.2,119,5,148
+Royal Challengers Bangalore,Rajasthan Royals,M. Chinnaswamy Stadium,13.4,105,4,140
+Mumbai Indians,Lucknow Super Giants,Wankhede Stadium,11.1,83,2,121
+Chennai Super Kings,Gujarat Titans,MA Chidambaram Stadium,16.2,127,6,154
+Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium,14.1,109,4,143
+Punjab Kings,Sunrisers Hyderabad,DY Patil Stadium,12.2,92,3,128
+Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,17.4,141,5,167
+Lucknow Super Giants,Mumbai Indians,Ekana Cricket Stadium,10.4,81,4,118
+Gujarat Titans,Chennai Super Kings,Narendra Modi Stadium,15.3,122,3,158
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,13.1,97,5,131
+Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi International Stadium,16.1,131,4,159
+Royal Challengers Bangalore,Punjab Kings,M. Chinnaswamy Stadium,11.4,87,3,125
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,14.5,113,6,142
+Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,12.3,93,2,132
+Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,17.2,136,5,162
+Punjab Kings,Royal Challengers Bangalore,DY Patil Stadium,10.3,77,4,109
+Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,15.4,120,4,149
+Lucknow Super Giants,Delhi Capitals,Ekana Cricket Stadium,13.3,101,3,137
+Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,16.4,133,6,159
+Gujarat Titans,Royal Challengers Bangalore,Narendra Modi Stadium,11.2,84,2,124
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,14.2,107,5,139
+Punjab Kings,Lucknow Super Giants,DY Patil Stadium,12.1,89,3,126
+Delhi Capitals,Royal Challengers Bangalore,Arun Jaitley Stadium,17.3,140,4,166
+Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,10.1,75,4,110
+Mumbai Indians,Gujarat Titans,Wankhede Stadium,15.1,116,3,150
+Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,13.2,98,5,134
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,16.1,124,4,157
+Delhi Capitals,Mumbai Indians,Arun Jaitley Stadium,11.4,86,3,127
+Punjab Kings,Sunrisers Hyderabad,DY Patil Stadium,14.3,111,6,141
+Gujarat Titans,Delhi Capitals,Narendra Modi Stadium,17.1,132,5,160
+Lucknow Super Giants,Royal Challengers Bangalore,Ekana Cricket Stadium,12.4,95,2,133
+Rajasthan Royals,Punjab Kings,Sawai Mansingh Stadium,15.2,117,4,148
+Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Stadium,10.3,79,1,119
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,13.1,100,5,136
+Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,16.3,130,3,163
+Royal Challengers Bangalore,Gujarat Titans,M. Chinnaswamy Stadium,14.1,104,4,144
+Kolkata Knight Riders,Lucknow Super Giants,Eden Gardens,11.2,88,2,129
+Punjab Kings,Mumbai Indians,DY Patil Stadium,17.4,139,6,164
+Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,12.3,94,3,130
+Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,15.1,115,5,147
+Lucknow Super Giants,Chennai Super Kings,Ekana Cricket Stadium,10.4,82,4,117
+Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,16.2,128,4,155
+Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,13.4,103,6,135
+Mumbai Indians,Punjab Kings,Wankhede Stadium,14.2,108,3,146
+Chennai Super Kings,Gujarat Titans,MA Chidambaram Stadium,11.1,85,2,123
+Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,17.2,137,5,163
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,12.1,90,4,126
+Kolkata Knight Riders,Gujarat Titans,Eden Gardens,15.3,120,6,149
+Punjab Kings,Chennai Super Kings,DY Patil Stadium,10.2,78,1,116
+Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,16.4,135,4,161
+Lucknow Super Giants,Delhi Capitals,Ekana Cricket Stadium,13.2,99,5,132
+Gujarat Titans,Sunrisers Hyderabad,Narendra Modi Stadium,14.4,112,3,148
+Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,11.3,87,6,122
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,17.1,134,2,167
+Delhi Capitals,Punjab Kings,Arun Jaitley Stadium,12.4,96,4,133
+Rajasthan Royals,Gujarat Titans,Sawai Mansingh Stadium,15.4,121,5,150
+Sunrisers Hyderabad,Lucknow Super Giants,Rajiv Gandhi International Stadium,10.1,77,3,114
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,16.2,126,4,156
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,13.1,101,5,138
+Punjab Kings,Delhi Capitals,DY Patil Stadium,14.3,110,6,143
+Gujarat Titans,Royal Challengers Bangalore,Narendra Modi Stadium,11.4,89,2,127
+Lucknow Super Giants,Rajasthan Royals,Ekana Cricket Stadium,17.3,138,4,164
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,12.2,93,3,131
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,15.1,118,7,145
+Delhi Capitals,Gujarat Titans,Arun Jaitley Stadium,10.3,80,1,120
+Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,16.1,129,5,158
+Punjab Kings,Lucknow Super Giants,DY Patil Stadium,13.4,105,4,141
+Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,14.1,107,3,145
+Gujarat Titans,Chennai Super Kings,Narendra Modi Stadium,11.2,86,5,121
+Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,17.2,135,6,161
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,12.3,95,2,134
+Lucknow Super Giants,Punjab Kings,Ekana Cricket Stadium,15.3,119,4,152
+Mumbai Indians,Chennai Super Kings,Wankhede Stadium,10.4,83,6,116
+Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,16.4,132,3,162
+Gujarat Titans,Mumbai Indians,Narendra Modi Stadium,13.2,102,5,139
+Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,14.2,109,4,146
+Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,11.1,84,3,124
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,17.1,133,2,168
+Sunrisers Hyderabad,Gujarat Titans,Rajiv Gandhi International Stadium,12.4,97,7,130
+Lucknow Super Giants,Mumbai Indians,Ekana Cricket Stadium,15.2,114,5,148
+Punjab Kings,Royal Challengers Bangalore,DY Patil Stadium,10.2,79,4,115
